@@ -3,7 +3,7 @@ module.exports = {
     bot: {
 
         // bot numebr
-        phoneNumber: "", // add ur bot numebr
+        phoneNumber: "27818232269", // add ur bot numebr
 
         // extra
         co: [""], // add co owner
@@ -12,8 +12,8 @@ module.exports = {
         useCoin: false, // true uses pair false no
 
         // custom 
-        name: "coderxsa", // custom owner name
-        id: "2799999999" // owner numebr
+        name: "𝕬𝖛𝖊.𝕭", // custom owner name
+        id: "27767494368" // owner numebr
     },
 };
 
